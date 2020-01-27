@@ -11,7 +11,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 <br>
 <a href = "snowman.html" > snowman</a>
 <br>
-<!<a href = "pong.html" > pong</a>>
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
