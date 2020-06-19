@@ -16,7 +16,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 <br>
 <a href = "flappy.html" > flappy</a>
 <br>
-<a href = "asteroids.html" > asteroids</a>
+<a href = "Asteroids Game/asteroids.html" > asteroids</a>
 <br>
 
 ### Markdown
